@@ -50,7 +50,7 @@ The instrumentation feature is highly experimental. However, the feature should 
 - [ ] [ConvexHull](https://en.wikipedia.org/wiki/Convex_hull_algorithms)
 - [ ] [FloydWarshall](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm)
 - [ ] [MaxFlow](https://en.wikipedia.org/wiki/Maximum_flow_problem)
-- [ ] [RodCutting](https://go.algorithmexamples.com/web/dynamic-programming/rod-cutting.html)
+- [x] [RodCutting](https://go.algorithmexamples.com/web/dynamic-programming/rod-cutting.html)
 - [ ] [Select](https://en.wikipedia.org/wiki/Selection_algorithm)
 - [ ] [ActivitySelection](https://en.wikipedia.org/wiki/Activity_selection_problem)
 - [ ] [LCS](https://en.wikipedia.org/wiki/Longest_common_subsequence)
